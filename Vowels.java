@@ -1,4 +1,4 @@
-class User {
+class User  {
     public int countVowels(String input) {
         int count = 0;
         for (char c : input.toCharArray()) {
